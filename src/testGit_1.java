@@ -3,6 +3,7 @@ public class testGit_1 {
         System.out.println("test git 1");
         System.out.println("test git commit - 2");
         System.out.println("test git commit - 3");
+        System.out.println("test git commit - 4");
     }
 
 }
